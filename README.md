@@ -43,8 +43,8 @@ Durante o desenvolvimento, foi ensinado sobre o uso do `TypeScript`, utilizando 
 [✅] Utilizar Interface<br/>
 [✅] Utilizar Implements<br/>
 [✅] Utilizar Generic-types<br/>
-[✅] Cadastro Partial-types<br/>
-[✅] Relacionamento Required-types<br/>
+[✅] Utilizar Partial-types<br/>
+[✅] Utilizar Required-types<br/>
 
 ---
 
