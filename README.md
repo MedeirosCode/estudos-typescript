@@ -8,7 +8,7 @@
 
 # 🔖 Sobre
 
-Esse projeto foi desenvolvido com o objetivo de ensinar os fundamentos basícos de TypeScript
+Esse repositório foi desenvolvido com o objetivo de ensinar os fundamentos basícos de TypeScript, que aprendi durante um curso online.
 
 ## ✍🏻 Conceitos ensinados
 
